@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pekkiriscim/weather.git"
+    "url": "git+https://github.com/azen-tech/weather-app.git"
   },
   "author": "Akshat Jain",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pekkiriscim/weather/issues"
+    "url": "https://github.com/azen-tech/weather-app/issues"
   },
-  "homepage": "https://github.com/pekkiriscim/weather#readme",
+  "homepage": "https://github.com/azen-tech/weather-app#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.14",
     "sass": "^1.59.2",
