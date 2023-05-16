@@ -32,7 +32,7 @@ If you find any issues or have suggestions for improvement, please open an issue
 
 This project is licensed under the MIT License.
 
-## Notes
+## API Key
 To run this app, you will need to create a free account at [OpenWeatherMap](https://openweathermap.org/) and obtain an API key. Then, create a file named `.env.local` in the root directory of the project and add the following line:
 
 VITE_API_KEY = XXXX(YOUR_API_KEY_HERE)
