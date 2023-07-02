@@ -38,3 +38,6 @@ To run this app, you will need to create a free account at [OpenWeatherMap](http
 VITE_API_KEY = XXXX(YOUR_API_KEY_HERE)
 
 AND RENAME THE FILE `.env.local` to `.env`
+
+## Added feature branch
+Git implementation
